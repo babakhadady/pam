@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Mother Tongue",
+    "images": [
+      "/assets/mother-tongue/0bf40598e6dfa8b612d6ca74a497150c.jpeg",
+      "/assets/mother-tongue/29cf7646e443d27b905be657be8e8370.jpeg",
+      "/assets/mother-tongue/4531c6b9ed872704db5058218b65a166.jpeg",
+      "/assets/mother-tongue/21692ef81ac84d5f3d1d029a9c15419b.jpeg",
+      "/assets/mother-tongue/e5392784415e9f7b5d21edf137f0e41e.jpeg"
+    ],
+    "description": [
+      "A personal project, directed, shot, and produced by me",
+        "Styled by: Vlad Dominguez",
+        "Model: Chaminda Silva",
+        "Lighting Assist: Liam Wheeler"
+    ]
+  },
+  { "name": "So Far, So Good" },
+  { "name": "Last Night In Paradise (Photo)" },
+  { "name": "Last Night In Paradise (Video) [Teaser]" },
+  { "name": "Last Night In Paradise (Video) [Short]" },
+  { "name": "RC Thrift Editorial" },
+  { "name": "Slip - Daniel Lin" },
+  { "name": "Juelz 2023 Remix Tape" },
+  { "name": "Digital Beggars - girly." }
+]
