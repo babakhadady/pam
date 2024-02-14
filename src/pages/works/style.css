@@ -1,0 +1,42 @@
+.bodyContainer {
+  width: 100%;
+  height: 100%;
+}
+
+.worksProjectTitle {
+  width: fit-content;
+}
+
+.worksProjectTitle:hover {
+  cursor: pointer;
+  /* opacity: 0 !important; */
+  opacity: 50%;
+  font-weight: bold;
+}
+
+.projectContainer {
+  z-index: 10;
+  position: absolute;
+  top: 10%;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  font-size: 50px;
+  font-weight: 500;
+  gap: 2vh;
+  padding-left: 2vw;
+}
+
+.worksBackground {
+  padding-top: 5vh;
+  margin-left: 15vw;
+  position: absolute;
+  width: 100%;
+  height: 90%;
+  /* background-color: red; */
+  opacity: 0.35;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 4vh 4vw;
+}

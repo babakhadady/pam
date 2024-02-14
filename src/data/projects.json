@@ -1,6 +1,6 @@
 [
   {
-    "name": "Mother Tongue",
+    "name": "mother tongue",
     "images": [
       "/assets/mother-tongue/0bf40598e6dfa8b612d6ca74a497150c.jpeg",
       "/assets/mother-tongue/29cf7646e443d27b905be657be8e8370.jpeg",
@@ -9,18 +9,28 @@
       "/assets/mother-tongue/e5392784415e9f7b5d21edf137f0e41e.jpeg"
     ],
     "description": [
-      "A personal project, directed, shot, and produced by me",
-        "Styled by: Vlad Dominguez",
-        "Model: Chaminda Silva",
-        "Lighting Assist: Liam Wheeler"
+      "a personal project, directed, shot, and produced by me",
+      "styled by: vlad dominguez",
+      "model: chaminda silva",
+      "lighting assist: liam wheeler"
     ]
   },
-  { "name": "So Far, So Good" },
-  { "name": "Last Night In Paradise (Photo)" },
-  { "name": "Last Night In Paradise (Video) [Teaser]" },
-  { "name": "Last Night In Paradise (Video) [Short]" },
-  { "name": "RC Thrift Editorial" },
-  { "name": "Slip - Daniel Lin" },
-  { "name": "Juelz 2023 Remix Tape" },
-  { "name": "Digital Beggars - girly." }
+  {
+    "name": "so far, so good",
+    "images": [
+      "/assets/so-far/3cd1087d7a5b0f8552fd5faf7d59744c.jpeg",
+      "/assets/so-far/aac5eb68eba4fbc4beba503876bfbff1.jpeg",
+      "/assets/so-far/b77aa5cb621ab0029fa1025056a9bb3f.jpeg",
+      "/assets/so-far/b5959776ca6188cf42021e105acb279a.jpeg",
+      "/assets/so-far/e540a6b0f0b93894292477a263b2c4cc.jpeg",
+      "/assets/so-far/f79cb8877f10f720b314c8f9b0b78477.jpeg"
+    ]
+  },
+  { "name": "last night in paradise (photo)" },
+  { "name": "last night in paradise (video) [teaser]" },
+  { "name": "last night in paradise (video) [short]" },
+  { "name": "rc thrift editorial" },
+  { "name": "slip - daniel lin" },
+  { "name": "juelz 2023 remix tape" },
+  { "name": "digital beggars - girly." }
 ]
